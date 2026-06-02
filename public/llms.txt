@@ -1,0 +1,66 @@
+# באבאגיו — Generative Engine Optimization Map
+
+> A South American steakhouse and meat restaurant with an authentic Latin American culinary identity. The restaurant specializes in South American beef and grilled meat dishes, evoking the rich traditions of Argentine or Brazilian barbecue culture. The brand likely carries a bold, rustic, and passionate atmosphere rooted in South American heritage and cuisine.
+
+---
+
+## Pages
+
+### בית
+https://-8deab7f7.zappy5.app
+מסעדת בשרים דרום אמריקאית עם חוויית גריל ארגנטינאית-ברזילאית בלב העיר. בשר בקר משובח, אווירה לוהטת ומנות מסורתיות מחכות לכם. הזמינו שולחן עכשיו לטעם של אמריקה הלטינית!
+
+## Legal & Policy
+
+### Privacy Policy
+https://-8deab7f7.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-8deab7f7.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-8deab7f7.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-8deab7f7.zappy5.app
+- Endpoint: https://-8deab7f7.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel, required)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About באבאגיו
+A South American steakhouse and meat restaurant with an authentic Latin American culinary identity. The restaurant specializes in South American beef and grilled meat dishes, evoking the rich traditions of Argentine or Brazilian barbecue culture. The brand likely carries a bold, rustic, and passionate atmosphere rooted in South American heritage and cuisine.
+
+## Target Audience
+- חובבי קולינריה
+- משפחות עם ילדים
+- לקוחות עסקיים
+
+## Industry
+Restaurant
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-8deab7f7.zappy5.app/sitemap.xml
+- Robots: https://-8deab7f7.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-8deab7f7.zappy5.app/llms-full.txt
